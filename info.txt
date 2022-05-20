@@ -1,0 +1,6 @@
+Learn how to run the file from command prompt
+Learn more on primary key
+CRUD : Create, Read, Update, Delete
+Having a primary key is the best way to select any row from a table
+Before any update operation, first do the select operation
+REGEX to be explored and understand - MYSQL Documentation String functions and Operators
